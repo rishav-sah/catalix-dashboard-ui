@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "metric": "On Time",
+    "status": "green",
+    "details": {
+      "Completed Iterations": 7,
+      "Total Iterations": 9,
+      "Percentage Iterations Done": "77.8%"
+    }
+  },
+  {
+    "id": 2,
+    "metric": "On Scope",
+    "status": "green",
+    "details": {
+      "Story Points Done": 3200,
+      "Total Story Points": 4230,
+      "Percentage Stories Done": "70.9%"
+    }
+  },
+  {
+    "id": 3,
+    "metric": "On Velocity",
+    "status": "red",
+    "details": {
+      "Average Velocity": 428.6,
+      "Required Velocity": 615.0
+    }
+  }
+]

@@ -1,0 +1,90 @@
+{
+  "Pageviews": {
+    "Total": 356928,
+    "Unique": 275588,
+    "AverageTimeOnPage": "00:03:51",
+    "Entrances": 315643,
+    "ExitPercentage": "39.84%",
+    "PageValue": "$19,983"
+  },
+  "Metrics": [
+    {
+      "Page": "/Defect Arrival Rate",
+      "Pageviews": 872337,
+      "PageviewsChangePercentage": "-15.82%",
+      "UniquePageviews": 574332,
+      "UniquePageviewsChangePercentage": "-15.33%",
+      "AverageTimeOnPage": "00:05:43",
+      "Entrances": 802873,
+      "EntrancesChangePercentage": "16.75%",
+      "ExitPercentage": "25.96%",
+      "PageValue": "$1,093",
+      "PageValueChangePercentage": "5.11%"
+    },
+    {
+      "Page": "/Fixed Rate",
+      "Pageviews": 803792,
+      "PageviewsChangePercentage": "-14.39%",
+      "UniquePageviews": 456792,
+      "UniquePageviewsChangePercentage": "-13.93%",
+      "AverageTimeOnPage": "00:05:24",
+      "Entrances": 793982,
+      "EntrancesChangePercentage": "15.64%",
+      "ExitPercentage": "76.13%",
+      "PageValue": "$6,792",
+      "PageValueChangePercentage": "36.16%"
+    },
+    {
+      "Page": "/cycle time",
+      "Pageviews": 740702,
+      "PageviewsChangePercentage": "-13.46%",
+      "UniquePageviews": 405860,
+      "UniquePageviewsChangePercentage": "-13.25%",
+      "AverageTimeOnPage": "00:04:36",
+      "Entrances": 684873,
+      "EntrancesChangePercentage": "14.33%",
+      "ExitPercentage": "41.54%",
+      "PageValue": "$702",
+      "PageValueChangePercentage": "3.47%"
+    },
+    {
+      "Page": "/lead time",
+      "Pageviews": 676659,
+      "PageviewsChangePercentage": "-10.29%",
+      "UniquePageviews": 340765,
+      "UniquePageviewsChangePercentage": "-11.70%",
+      "AverageTimeOnPage": "00:04:12",
+      "Entrances": 638982,
+      "EntrancesChangePercentage": "13.02%",
+      "ExitPercentage": "46.42%",
+      "PageValue": "$2,659",
+      "PageValueChangePercentage": "11.64%"
+    },
+    {
+      "Page": "/new features",
+      "Pageviews": 508837,
+      "PageviewsChangePercentage": "-7.74%",
+      "UniquePageviews": 317543,
+      "UniquePageviewsChangePercentage": "-10.66%",
+      "AverageTimeOnPage": "00:04:11",
+      "Entrances": 555982,
+      "EntrancesChangePercentage": "10.44%",
+      "ExitPercentage": "27.40%",
+      "PageValue": "$4,508",
+      "PageValueChangePercentage": "23.43%"
+    },
+    {
+      "Page": "/ready features",
+      "Pageviews": 495938,
+      "PageviewsChangePercentage": "-7.38%",
+      "UniquePageviews": 310554,
+      "UniquePageviewsChangePercentage": "-10.58%",
+      "AverageTimeOnPage": "00:02:56",
+      "Entrances": 297303,
+      "EntrancesChangePercentage": "6.07%",
+      "ExitPercentage": "28.89%",
+      "PageValue": "$495",
+      "PageValueChangePercentage": "7.38%"
+    }
+  ]
+}

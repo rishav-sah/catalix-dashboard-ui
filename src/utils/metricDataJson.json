@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Efficiency",
+    "value": 1.1921,
+    "unit": "USD",
+    "change": {
+      "absolute": 0.0015,
+      "percentage": "0.13%"
+    },
+    "trend": "up",
+    "bgColor": "#75b3dc",
+    "strokeColor": "#2994e4",
+    "fillColor": "#69acd3"
+  },
+  {
+    "id": 2,
+    "title": "Time to Market",
+    "value": 327176,
+    "unit": "JPY",
+    "change": {
+      "absolute": -97140.0,
+      "percentage": "-23.03%"
+    },
+    "trend": "down",
+    "bgColor": "#007670",
+    "strokeColor": "#00adf0",
+    "fillColor": "#00544f"
+  },
+  {
+    "id": 3,
+    "title": "Tech Debt",
+    "value": 10.1763,
+    "unit": "USD",
+    "change": {
+      "absolute": 0.0015,
+      "percentage": "+0.13%"
+    },
+    "trend": "up",
+    "bgColor": "#FFFFFF",
+    "strokeColor": "#ff9d9f",
+    "fillColor": "#ffdde0"
+  },
+  {
+    "id": 4,
+    "title": "Predictability",
+    "value": 0.00313010,
+    "unit": "BTC",
+    "change": {
+      "absolute": -0.0005430,
+      "percentage": "-1.38%"
+    },
+    "trend": "down",
+    "bgColor": "#ff464c",
+    "strokeColor": "#ec3136",
+    "fillColor": "#ff3c41"
+  }
+]

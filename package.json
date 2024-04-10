@@ -1,6 +1,6 @@
 {
   "homepage": "https://rishav-sah.github.io/catalix-dashboard-ui/",
-  "name": "catalix-ui",
+  "name": "catalix-dashboard-ui",
   "private": true,
   "version": "0.0.0",
   "type": "module",
